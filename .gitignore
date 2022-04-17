@@ -1,0 +1,5 @@
+/ticketing/auth/node_modules
+/ticketing/expiration/node_modules
+/ticketing/order/node_modules
+/ticketing/payment/node_modules
+/ticketing/ticket/node_modules
