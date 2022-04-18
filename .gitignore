@@ -1,5 +1,10 @@
 /ticketing/auth/node_modules
+/ticketing/auth/dist
 /ticketing/expiration/node_modules
+/ticketing/expiration/dist
 /ticketing/order/node_modules
+/ticketing/order/dist
 /ticketing/payment/node_modules
+/ticketing/payment/dist
 /ticketing/ticket/node_modules
+/ticketing/ticket/dist
