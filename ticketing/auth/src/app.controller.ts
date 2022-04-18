@@ -1,5 +1,6 @@
 import { Controller, Get } from '@nestjs/common';
-import { AppService } from './app.service';
+
+import { AppService } from '@tickets-microservice/ticket-shared-kernel';
 
 @Controller()
 export class AppController {
